@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360283459994",
+    "project_id": "image-gerator-ykf71m",
+    "storage_bucket": "image-gerator-ykf71m.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360283459994:android:d015681b3ee332c30a6a23",
+        "android_client_info": {
+          "package_name": "com.mycompany.imagegerator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjUErUKADUWABz2LUcdvH1BDreaIhMu_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
